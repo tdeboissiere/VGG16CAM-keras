@@ -26,6 +26,6 @@ Download the keras [vgg16 weights](https://gist.github.com/baraldilorenzo/07d780
 
 On the Kaggle StateFarm dataset:
 
-![Drive + Phone 1](example_VGG16CAM1.jpg)
-![Drive + Phone 2](example_VGG16CAM2.jpg)
+![Drive + Phone 1](example_VGG16CAM1.png)
+![Drive + Phone 2](example_VGG16CAM2.png)
 
