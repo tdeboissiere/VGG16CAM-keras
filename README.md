@@ -29,3 +29,4 @@ On the Kaggle StateFarm dataset:
 ![Drive + Phone 1](example_VGG16CAM1.png)
 ![Drive + Phone 2](example_VGG16CAM2.png)
 
+The network is focusing on the cell phone the driver is holding, regardless of driver ID or hand position.
