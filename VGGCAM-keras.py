@@ -2,8 +2,8 @@ import keras.backend as K
 from keras.models import Sequential
 from keras.layers.core import Flatten, Dense
 from keras.layers.convolutional import Convolution2D
-from keras.layers.convolutional import MaxPooling2D
-from keras.layers.convolutional import AveragePooling2D
+from keras.layers.pooling import MaxPooling2D
+from keras.layers.pooling import AveragePooling2D
 from keras.layers.convolutional import ZeroPadding2D
 import matplotlib.pylab as plt
 import numpy as np
