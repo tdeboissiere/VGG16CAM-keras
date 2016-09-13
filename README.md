@@ -6,7 +6,7 @@ Original matlab implementation and paper [here](https://github.com/metalbubble/C
 
 ## Requirements
 
-- keras with theano backend
+- keras with theano backend (keras version 1.0.4 or later)
 - h5py
 - numpy
 - matplotlib
